@@ -69,7 +69,7 @@ const Hero: React.FC = () => {
                 type="email"
                 name="email_address"
                 required
-                placeholder="Join my weekly newsletter..."
+                placeholder="Enter your email..."
                 className="w-full bg-transparent px-4 py-3 text-slate-900 placeholder-slate-400 focus:outline-none"
               />
               <button
