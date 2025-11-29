@@ -18,14 +18,9 @@ const Testimonials: React.FC = () => {
             <p className="text-slate-600 text-lg leading-relaxed relative z-10 mb-6 italic">
               "Adam brought a level of strategic clarity that we were missing. His ability to audit our technology stack and realign our sales processes resulted in immediate, measurable revenue growth. He doesn't just talk strategy; he executes."
             </p>
-            <div className="flex items-center gap-4">
-              <div className="w-12 h-12 bg-slate-200 rounded-full flex items-center justify-center text-slate-500 font-bold text-sm">
-                JD
-              </div>
-              <div>
-                <div className="font-bold text-slate-900">Glen - General Manager</div>
-                <div className="text-xs text-slate-500 uppercase tracking-wide">DMW</div>
-              </div>
+            <div>
+              <div className="font-bold text-slate-900">Glen - General Manager</div>
+              <div className="text-xs text-slate-500 uppercase tracking-wide">DMW</div>
             </div>
           </div>
 
@@ -35,14 +30,9 @@ const Testimonials: React.FC = () => {
             <p className="text-slate-600 text-lg leading-relaxed relative z-10 mb-6 italic">
               "Navigating international markets is complex. Adam successfully led our expansion business expansion, new product, new markets and a complete overhaul of our sales process. A true asset to any business looking for scalable growth."
             </p>
-            <div className="flex items-center gap-4">
-              <div className="w-12 h-12 bg-slate-200 rounded-full flex items-center justify-center text-slate-500 font-bold text-sm">
-                MK
-              </div>
-              <div>
-                <div className="font-bold text-slate-900">Grant - Managing Driector</div>
-                <div className="text-xs text-slate-500 uppercase tracking-wide">NBM Pty Ltd</div>
-              </div>
+            <div>
+              <div className="font-bold text-slate-900">Grant - Managing Director</div>
+              <div className="text-xs text-slate-500 uppercase tracking-wide">NBM Pty Ltd</div>
             </div>
           </div>
         </div>

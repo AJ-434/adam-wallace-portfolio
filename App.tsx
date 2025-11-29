@@ -42,8 +42,6 @@ const App: React.FC = () => {
 
         <Testimonials />
 
-        <FeaturedInsights />
-
         {/* Philosophy / About Section text */}
 
         <section id="philosophy" className="py-24 bg-white border-t border-slate-100">
@@ -71,6 +69,8 @@ const App: React.FC = () => {
           </div>
 
         </section>
+
+        <FeaturedInsights />
 
       </main>
 

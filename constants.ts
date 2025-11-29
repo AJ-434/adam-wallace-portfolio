@@ -5,7 +5,7 @@ export const LINKEDIN_URL = "https://www.linkedin.com/in/adam-wallace-/";
 export const BOOKING_URL = "https://tidycal.com/3q22djv/30-minute-meeting";
 
 export const HERO_TITLE = "Strategic Growth & Revenue Executive";
-export const HERO_SUBTITLE = "Bridging the gap between operational efficiency and commercial strategy. I partner with C-Suite leaders and SMB's to scale businesses internationally.";
+export const HERO_SUBTITLE = "Bridging the gap between operational efficiency and commercial strategy. I partner with C-Suite leaders and SMB's to scale businesses.";
 
 export const KEY_METRICS: Metric[] = [
   {
@@ -39,7 +39,7 @@ export const EXPERTISE_AREAS: ExpertiseArea[] = [
   {
     title: "Digital Transformation",
     description: "Leveraging technology to automate workflows, enhance customer experience, and reduce risk.",
-    skills: ["Software Implementation", "E-commerce Operations", "Data Driven Insights", "Tech Audits"]
+    skills: ["Software Implementation", "E-Commerce Operations", "Data Driven Insights", "Tech Audits"]
   },
   {
     title: "Organisational Leadership",
@@ -62,7 +62,7 @@ export const IMPACT_HIGHLIGHTS: CareerHighlight[] = [
     iconName: 'TrendingUp'
   },
   {
-    title: "Global Operations & E-commerce",
+    title: "Global Operations & E-Commerce",
     description: "Managed end-to-end e-commerce and marketing for a market leading brand.",
     achievements: [
       "Conducted comprehensive new market analysis utilising frameworks such as PESTLE and VRIO to assess and de-risk international expansion.",
