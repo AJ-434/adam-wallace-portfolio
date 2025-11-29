@@ -21,7 +21,7 @@ const Header: React.FC = () => {
             href={BOOKING_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className="hidden sm:inline-flex items-center gap-2 px-5 py-2 rounded-full border border-slate-200 bg-white text-slate-700 text-sm font-semibold hover:border-slate-900 hover:text-slate-900 transition-colors shadow-sm"
+            className="inline-flex items-center gap-2 px-4 sm:px-5 py-2 rounded-full border border-slate-200 bg-white text-slate-700 text-xs sm:text-sm font-semibold hover:border-slate-900 hover:text-slate-900 transition-colors shadow-sm"
           >
             <Calendar className="w-4 h-4" />
             Book Strategy Call
