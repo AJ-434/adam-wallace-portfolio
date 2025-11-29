@@ -66,7 +66,7 @@ const ImpactGrid: React.FC = () => {
                     </div>
                   </div>
                   
-                  <h3 className="text-xl font-bold text-slate-900 mb-3 group-hover:text-blue-600 transition-colors">
+                  <h3 className="text-xl font-bold text-slate-900 mb-3 group-hover:text-blue-600 transition-colors whitespace-nowrap">
                     {highlight.title}
                   </h3>
                   <p className="text-slate-600 mb-6 leading-relaxed text-sm">
