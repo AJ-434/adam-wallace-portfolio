@@ -38,7 +38,7 @@ const FeaturedInsights: React.FC = () => {
               rel="noopener noreferrer"
               className="group block h-full"
             >
-              <div className="h-full bg-slate-50 rounded-2xl p-8 border border-slate-100 transition-all duration-300 hover:shadow-lg hover:border-blue-200 hover:-translate-y-1 flex flex-col">
+              <div className="h-full bg-white rounded-2xl p-8 border border-slate-200 shadow-sm transition-all duration-300 hover:shadow-lg hover:border-blue-200 hover:-translate-y-1 flex flex-col">
                 <div className="flex justify-between items-start mb-6">
                   <span className="px-3 py-1 bg-white border border-slate-200 rounded-full text-xs font-bold text-slate-600 uppercase tracking-wide">
                     {insight.category}
