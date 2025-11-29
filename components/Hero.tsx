@@ -50,6 +50,9 @@ const Hero: React.FC = () => {
 
         {/* Integrated Newsletter Form - Connected to Kit (Form 8819282) */}
         <div className="w-full max-w-md animate-fade-in opacity-0 mb-6" style={{ animationDelay: '0.4s' }}>
+          <p className="text-sm font-semibold text-slate-700 mb-3">
+            📬 Join my weekly newsletter
+          </p>
           <form 
             method="post" 
             action="https://app.kit.com/forms/8819282/subscriptions"
