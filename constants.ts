@@ -34,7 +34,7 @@ export const EXPERTISE_AREAS: ExpertiseArea[] = [
   {
     title: "International Expansion",
     description: "Navigating complex global markets to establish brand presence and profitability abroad.",
-    skills: ["Global Marketing", "New Market Analysis", "Internal Team Management", "New Market Entry"]
+    skills: ["Global Marketing", "New Market Analysis", "International Team Management", "New Market Entry"]
   },
   {
     title: "Digital Transformation",
