@@ -94,11 +94,11 @@ export const FEATURED_INSIGHTS: Insight[] = [
     date: "Latest Insight"
   },
   {
-    title: "Expanding to 27 Markets: Lessons in Global Logistics & Culture",
+    title: "Lessons I Learned From Marketing to Over 20 Countries",
     category: "International Business",
-    summary: "A breakdown of the PESTLE and VRIO frameworks used to de-risk international expansion strategies.",
-    link: LINKEDIN_URL,
-    date: "Featured"
+    summary: "Global marketing isn't just translation; it's immersion. Three core lessons on buyer journeys, local context, and revenue operations.",
+    link: "https://www.linkedin.com/pulse/lessons-i-learned-from-marketing-over-20-countries-adam-w-d8unc/",
+    date: "Nov 2025"
   },
   {
     title: "The 290% Growth Blueprint: Optimising the Customer Journey",
