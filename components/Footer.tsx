@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
 
         <div className="mt-24 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-sm text-slate-500">
           <p>© {new Date().getFullYear()} Adam Wallace. All rights reserved.</p>
-          <p className="mt-2 md:mt-0">Strategic Growth Executive • International Business</p>
+          <p className="mt-2 md:mt-0">Strategic Growth Executive</p>
         </div>
       </div>
     </footer>
